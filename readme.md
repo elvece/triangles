@@ -1,2 +1,1 @@
-for (var number = "#"; number.length <= 7; number += "#")
-  console.log(number);
+My solution for triangles
